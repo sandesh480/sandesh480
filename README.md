@@ -1,3 +1,11 @@
+<h1 align="center">Hello, I'm Sandesh Aryal 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BSc+CSIT+Student;Python+%26+Django+Developer;Learning+Backend+Development;Building+Projects+One+Step+at+a+Time" alt="Typing SVG" />
+</p>
+
+---
+
 # 💫 About Me:
 🎓 BSc CSIT student at Tribhuvan University.<br>
 💻 Passionate about Python and backend development.<br>
@@ -16,6 +24,9 @@
 ![](https://github-readme-stats.shion.dev/api?username=sandesh480&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=sandesh480&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sandesh480&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 📈 Contribution Graph:
+[![Sandesh's Github Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandesh480&theme=react-dark)](https://github.com/sandesh480)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sandesh480&theme=radical&no-frame=false&no-bg=true&margin-w=4)
