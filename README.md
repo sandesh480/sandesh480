@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sandesh Aryal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BSc+CSIT+Student;Python+Developer;Django+Backend+Enthusiast;Building+Projects+One+Step+at+a+Time;Future+Backend+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=BSc+CSIT+Student;Python+Developer;Django+Backend+Developer;Building+Projects+One+Step+at+a+Time" alt="Typing SVG" />
 </p>
 
-<h3 align="center">BSc CSIT Student | Python & Django Backend Developer in Progress</h3>
+<h3 align="center">BSc CSIT Student | Python & Django Backend Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sandesh480&color=36BCF7&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -16,10 +16,9 @@
 
 - 🎓 **Education:** BSc CSIT student at Tribhuvan University.
 - 💻 **Passionate:** Deeply interested in Python ecosystem and backend architecture.
-- 🌱 **Currently Learning:** Django, Advanced Backend Development, and Software Engineering Fundamentals.
-- 🛠️ **Philosophy:** I believe in learning by building real-world, scalable projects.
-- 📚 **Focus:** Continuous improvement in Data Structures, Algorithms, and System Design.
-- 🎯 **Goal:** Become an industry-ready Backend Developer.
+- 🌱 **Currently Learning:** Django, Backend Development, and Software Engineering Fundamentals.
+- 🛠️ **Philosophy:** I believe in learning by building real-world projects.
+- 📚 **Focus:** Improving Data Structures, Algorithms, and System Design skills.
 
 ---
 
@@ -53,31 +52,15 @@
 
 ---
 
-## 📌 Featured Projects
+## 📊 GitHub Stats & Streaks
 
-### 📚 Library Management System
-> A Django-based platform for managing books, authors, borrowing records, and availability status.
-
-### 🎟️ Event Management System (EMS)
-> An event discovery and booking platform built with Django.
-
-### ✅ Todo App
-> A clean task management application showcasing core CRUD operations in Django.
-
-### 💻 OOP in C++
-> Implementation of fundamental Object-Oriented Programming concepts using C++.
-
----
-
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh480&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandesh480&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Sandesh's GitHub Stats" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh480&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh480&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
